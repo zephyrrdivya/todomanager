@@ -1,11 +1,21 @@
-# Todo Manager
+# To Do Manager
 
-> Full stack Django/React/Redux app that uses token based authentication with Knox.
+> Django and React app with redux for To Do Task Management
 
-## Quick Start
+## Installation
+
+> git clone
 
 ```bash
-# Install dependencies
+# 1. Install dependencies
+
+# 1.1 Python Dependencies
+# Virtual Env setup
+pipenv shell
+# then 
+pipenv install
+
+# 1.2 React Dependencies
 npm install
 
 # Serve API on localhost:8000
