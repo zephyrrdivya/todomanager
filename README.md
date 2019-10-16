@@ -10,8 +10,10 @@
 # 1. Install dependencies
 
 # 1.1 Python Dependencies
+
 # Virtual Env setup
 pipenv shell
+
 # then 
 pipenv install
 
